@@ -1,0 +1,21 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-productionpage-dev-10349-authRole",
+      "UnauthRoleArn": "arn:aws:iam::675201243491:role/amplify-productionpage-dev-10349-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::675201243491:role/amplify-productionpage-dev-10349-authRole",
+      "Region": "sa-east-1",
+      "DeploymentBucketName": "amplify-productionpage-dev-10349-deployment",
+      "UnauthRoleName": "amplify-productionpage-dev-10349-unauthRole",
+      "StackName": "amplify-productionpage-dev-10349",
+      "StackId": "arn:aws:cloudformation:sa-east-1:675201243491:stack/amplify-productionpage-dev-10349/90e38b40-becc-11ec-80a8-0a8fbc7e6d6a",
+      "AmplifyAppId": "dvccluiwors8v"
+    },
+    "categories": {
+      "auth": {
+        "productionpage47e2dc5d47e2dc5d": {},
+        "true": {}
+      }
+    }
+  }
+}
